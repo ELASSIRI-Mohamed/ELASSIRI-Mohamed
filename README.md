@@ -1,132 +1,146 @@
-🚀 Mohamed Elassiri
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Automation+Developer+🤖;Full-Stack+Engineer+💻;Odoo+ERP+Developer+📊;Workflow+Architect+⚙️)
+# 🚀 Mohamed Elassiri
 
-🧠 ABOUT ME
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Automation+Developer+🤖;Full-Stack+Engineer+💻;Odoo+ERP+Developer+📊;Workflow+Architect+⚙️" />
+</p>
+
+---
+
+## 🔥 ABOUT ME
+
+<table>
+<tr>
+<td width="55%">
+
+```yaml
 name: Mohamed Elassiri
 role: AI Automation Developer & Full-Stack Engineer
 location: Morocco 🌍
 code: [Python, JavaScript, TypeScript, PHP]
+
 focus:
   - 🤖 AI Agents & Automation
   - 🔐 JWT Authentication Systems
-  - ⚙️ n8n Workflows & Smart Logic
-  - 📊 ERP & Odoo Custom Modules
-  - 🌐 Modern Full-Stack Applications
+  - ⚙️ n8n Smart Workflows
+  - 📊 Odoo ERP Custom Modules
+  - 🌐 Scalable Full-Stack Applications
 
-current_mission: "Building scalable AI-powered automation systems"
-hobbies: ["☕ Coffee", "💻 Coding", "🧠 AI Experiments", "📚 Learning"]
+current_mission: "Building intelligent systems that automate the future"
+
+hobbies: ["☕ Coffee", "💻 Coding", "🧠 AI Experiments"]
+
 fun_fact: "I automate things before doing them manually 😄"
+```
 
-🛠️ TECH STACK
-🤖 AI & Automation
+</td>
 
-OpenAI API
+<td width="45%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+</td>
 
-AI Agents
+</tr>
+</table>
 
-RAG Systems
+---
 
-Vector Databases
+# 🤖 AI & Machine Learning
 
-Prompt Engineering
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="60"/>
+</p>
 
-⚙️ Automation & Workflows
+<p align="center">
+  <b>PyTorch</b> • <b>TensorFlow</b> • <b>Transformers</b> • <b>RAG Systems</b> • <b>Vector Databases</b>
+</p>
 
-n8n
+---
 
-Webhooks
+# ⚙️ Automation & Backend
 
-Conditional Logic
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="60"/>
+</p>
 
-Smart Segmentation
+<p align="center">
+  <b>FastAPI</b> • <b>Django</b> • <b>JWT Auth</b> • <b>n8n</b> • <b>Docker</b>
+</p>
 
-Email Automation
+---
 
-🌐 Full-Stack Development
-🎨 Frontend
+# 🌐 Frontend Development
 
-React ⚛️
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="60"/>
+</p>
 
-Next.js ▲
+<p align="center">
+  <b>React</b> • <b>Next.js</b> • <b>Tailwind CSS</b>
+</p>
 
-Tailwind CSS 🎨
+---
 
-⚙️ Backend
+# 📊 ERP & Data
 
-FastAPI ⚡
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="60"/>
+</p>
 
-Django 🎸
+<p align="center">
+  <b>Odoo ERP</b> • <b>PostgreSQL</b> • <b>MySQL</b>
+</p>
 
-Flask 🧪
+---
 
-Express.js 🚂
+# 📈 GITHUB STATS
 
-Odoo (ERP Customization) 📊
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ELASSIRI-Mohamed&show_icons=true&theme=tokyonight" />
+</p>
 
-🗄️ Databases
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELASSIRI-Mohamed&layout=compact&theme=tokyonight" />
+</p>
 
-PostgreSQL 🐘
+---
 
-MySQL 🐬
+# 🚀 CURRENT FOCUS
 
-MongoDB 🍃
-
-☁️ DevOps
-
-Docker 🐳
-
-GitHub Actions 🔄
-
-CI/CD 🚀
-
-Vercel ▲
-
-📊 GITHUB STATS
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-🧩 SKILLS MATRIX
-💡 Domain	🛠️ Technologies	📊 Level
-AI Automation	OpenAI, RAG, Vector DB	🔥🔥🔥🔥
-Workflow Automation	n8n, Webhooks, Logic	🔥🔥🔥🔥
-Full-Stack	React, FastAPI, Django	🔥🔥🔥
-ERP Development	Odoo, Python	🔥🔥🔥
-Authentication	JWT, OAuth	🔥🔥🔥
-🚀 CURRENT PROJECTS
+```python
 class MohamedElassiri:
+
     def __init__(self):
         self.current_projects = {
-            "🤖 AI Automation": "Smart AI agents with memory & tools",
-            "📊 ERP Systems": "Custom Odoo modules",
-            "🌐 Full-Stack Apps": "React + FastAPI microservices",
-            "🔐 Auth Systems": "Secure JWT-based authentication",
-            "⚙️ Workflow Automation": "Smart event & engagement logic"
+            "🤖 AI Agents": "Tool-enabled AI systems with memory",
+            "⚙️ Smart Automation": "Segmented workflows with n8n",
+            "📊 ERP Development": "Custom Odoo modules",
+            "🌐 Full-Stack Apps": "React + FastAPI architecture",
+            "🔐 Secure Systems": "JWT-based authentication"
         }
-
-    def daily_routine(self):
-        return ["☕ Coffee", "💻 Code", "🧠 Learn", "🚀 Build", "🔁 Improve"]
 
     def get_status(self):
         return "🟢 Open to collaboration!"
+```
 
-🤝 LET'S CONNECT
-![GitHub](https://img.shields.io/badge/GitHub-MohamedElassiri-black?style=for-the-badge&logo=github&logoColor=white)
+---
 
+# 🤝 LET'S CONNECT
 
-Add your:
+<p align="center">
+  <a href="https://github.com/ELASSIRI-Mohamed">
+    <img src="https://img.shields.io/badge/GitHub-ELASSIRI--Mohamed-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-LinkedIn
+---
 
-Portfolio
-
-Email
-
-💡 OPEN TO
-
-🤝 AI Automation Projects
-💼 Freelance Work
-🚀 Startup Collaboration
-🎓 Tech Mentorship
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+👋;Let's+Automate+Everything!+🤖;Build.+Scale.+Repeat.+🚀)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+👋;Let's+Automate+Everything!+🤖;Build.+Scale.+Repeat.+🚀" />
+</p>
