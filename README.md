@@ -1,6 +1,13 @@
 <div align="center">
 
 ```
+███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███████╗██████╗
+████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║██╔════╝██╔══██╗
+██╔████╔██║██║   ██║███████║███████║██╔████╔██║█████╗  ██║  ██║
+██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
+
 ███████╗██╗      █████╗ ███████╗███████╗██╗██████╗ ██╗
 ██╔════╝██║     ██╔══██╗██╔════╝██╔════╝██║██╔══██╗██║
 █████╗  ██║     ███████║███████╗███████╗██║██████╔╝██║
@@ -26,9 +33,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   name     : Mohamed Elassiri
   title    : Full-Stack Developer & ERP Engineer
-  location : Laayayda, Salé — Morocco 🇲🇦
   email    : mohamedelassiri850@gmail.com
-  phone    : +212 637 268 596
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   stack:
     frontend  → React.js · Next.js · Tailwind · Bootstrap
@@ -67,16 +72,6 @@
 - Led **digital transformation** initiatives and data management
 - Conducted **SWOT Analysis** and Gap Analysis for software improvement
 - 💻 **Languages:** Python · JavaScript · XML · Bootstrap
-
----
-
-## 🎓 Education
-
-| Year | Degree | Institution |
-|------|--------|-------------|
-| 2024 – 2025 | 🎓 Diplôme Technicien Spécialisé — Web Full-Stack | ISTA Sala Aljadida |
-| 2023 – 2024 | 📘 1ère Année — Développement Digital | ISTA Sala Aljadida |
-| 2022 – 2023 | 🔬 Baccalauréat — Sciences Physiques | Lycée Abdelhadi Boutaleb, Salé |
 
 ---
 
@@ -140,20 +135,6 @@
 
 ---
 
-## 🌍 Languages
-
-<div align="center">
-
-| Language | Level |
-|----------|-------|
-| 🇸🇦 Arabic | Native |
-| 🇬🇧 English | Intermediate |
-| 🇫🇷 French | Intermediate |
-
-</div>
-
----
-
 ## 🚀 Current Focus
 
 ```python
@@ -195,8 +176,6 @@ print(me.get_status())
 
 [![GitHub](https://img.shields.io/badge/GitHub-ELASSIRI--Mohamed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ELASSIRI-Mohamed)
 [![Email](https://img.shields.io/badge/Email-mohamedelassiri850@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedelassiri850@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+212%20637%20268%20596-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212637268596)
-[![Location](https://img.shields.io/badge/Location-Salé%2C%20Morocco-FF5733?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Salé,Morocco)
 
 </div>
 
